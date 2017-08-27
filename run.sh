@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export BASE_DIR = "$HOME/Atoms_Project"
+export BASE_DIR="$HOME/Atoms_Project"
 mkdir $BASE_DIR
 
 cd $BASE_DIR
